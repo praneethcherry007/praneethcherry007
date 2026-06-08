@@ -97,9 +97,9 @@ Currently deepening my expertise in **Playwright with TypeScript** and **AI-augm
 
 <div align="center">
 
-![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneethcherry007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneethcherry007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethcherry007&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethcherry007&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=0)
 
 </div>
 
