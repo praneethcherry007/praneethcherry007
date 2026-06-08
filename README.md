@@ -91,22 +91,6 @@ Currently deepening my expertise in **Playwright with TypeScript** and **AI-augm
 - 🏆 *Client Recognition* — For developing critical calculation automation scripts
 - ⚡ *Efficiency Award* — Completed Kuwait SIT for Starbucks implementation within tight timelines
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-### My GitHub Activity
-[![Venkat's GitHub Stats](https://github-stats.com/praneethcherry007)](https://github.com/praneethcherry007)
-
-**Languages & Tools:**
-- **Primary:** Java, Python, TypeScript, SQL
-- **Testing Frameworks:** Selenium, Playwright, Cucumber, TestNG, REST Assured
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
-- **Platforms:** [View My Repositories](https://github.com/praneethcherry007?tab=repositories)
-
-</div>
 
 ---
 # 📊 GitHub Stats:
