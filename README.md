@@ -6,7 +6,7 @@
 
 *Building scalable test automation frameworks that ship quality at speed.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkat%20Praneeth-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkat%20Praneeth-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-praneeth-galla-541191191/)
 [![Gmail](https://img.shields.io/badge/Gmail-praneethcherry17@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:praneethcherry17@gmail.com)
 [![Location](https://img.shields.io/badge/Bangalore-India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white)]()
 [![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-2ECC71?style=flat-square)]()
@@ -19,7 +19,7 @@
 
 I'm an Automation Test Engineer with **5+ years** of experience designing and scaling test automation frameworks in the **Banking** (Barclays) and **Retail** (Alshaya) domains at **Capgemini**.
 
-I specialise in building frameworks that don't just run tests — they deliver **confidence at every release**. From Selenium-based regression suites to REST Assured API validation pipelines, I've shipped automation that directly caught production-critical defects before they reached customers.
+I specialise in building frameworks that don't just run tests — they deliver **confidence at every release**. From Selenium-based regression suites to REST Assured API validation pipelines, I've[...]
 
 Currently deepening my expertise in **Playwright with TypeScript** and **AI-augmented testing** (GitLab Duo, AI agents).
 
