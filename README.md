@@ -97,9 +97,14 @@ Currently deepening my expertise in **Playwright with TypeScript** and **AI-augm
 
 <div align="center">
 
-![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneethcherry007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=0)
+### My GitHub Activity
+[![Venkat's GitHub Stats](https://github-stats.com/praneethcherry007)](https://github.com/praneethcherry007)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethcherry007&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=0)
+**Languages & Tools:**
+- **Primary:** Java, Python, TypeScript, SQL
+- **Testing Frameworks:** Selenium, Playwright, Cucumber, TestNG, REST Assured
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
+- **Platforms:** [View My Repositories](https://github.com/praneethcherry007?tab=repositories)
 
 </div>
 
