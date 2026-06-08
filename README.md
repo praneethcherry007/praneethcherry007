@@ -97,9 +97,9 @@ Currently deepening my expertise in **Playwright with TypeScript** and **AI-augm
 
 <div align="center">
 
-![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneethcherry007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethcherry007&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
 
@@ -141,6 +141,6 @@ Currently deepening my expertise in **Playwright with TypeScript** and **AI-augm
 
 *"Quality is not an act, it is a habit."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2ECC71&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=praneethcherry007&color=2ECC71&style=flat-square&label=Profile+Views)
 
 </div>
